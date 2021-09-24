@@ -1,0 +1,19 @@
+.piece-container{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    margin-left: 15px;
+    border-right: 1px solid sienna;
+    border-bottom: 1px dashed blueviolet;
+    padding: 15px;
+}
+
+.piece-image{
+    width: 200px;
+}
+.btn-regular{
+    background-color: tan;
+    padding: 8px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 20px;
+}

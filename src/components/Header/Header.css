@@ -1,0 +1,12 @@
+.header-container{
+    background-color: lightseagreen;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    align-items: center;
+    color: white;
+    font-family: cursive;
+}
+.header-container img{
+    height: 200px;
+}

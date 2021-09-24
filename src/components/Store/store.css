@@ -1,0 +1,11 @@
+.store-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.search-field{
+    background-color: lightblue;
+    line-height: 30px;
+    margin: 10px;
+    width: 50%;
+    border-radius: 8px;
+}
